@@ -1,0 +1,11 @@
+E:\c-sharp\Ribo Downloader\Ribo Downloader\bin\Release\Ribo Downloader.exe.config
+E:\c-sharp\Ribo Downloader\Ribo Downloader\bin\Release\Ribo Downloader.exe
+E:\c-sharp\Ribo Downloader\Ribo Downloader\bin\Release\System.Data.SQLite.dll
+E:\c-sharp\Ribo Downloader\Ribo Downloader\bin\Release\System.Data.SQLite.xml
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo Downloader.csprojResolveAssemblyReference.cache
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo_Downloader.Add_Link.resources
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo_Downloader.Main.resources
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo_Downloader.Properties.Resources.resources
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo Downloader.csproj.GenerateResource.Cache
+E:\c-sharp\Ribo Downloader\Ribo Downloader\obj\Release\Ribo Downloader.exe
+E:\c-sharp\Ribo Downloader\Ribo Downloader\bin\Release\Newtonsoft.Json.dll
