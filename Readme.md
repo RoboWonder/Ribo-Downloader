@@ -21,11 +21,10 @@
 <ul>
     <li>Clone this repository. 
     <li>Add Nuget package: 
-    <li>
-    	<ul>
-    		<li>https://www.nuget.org/packages/System.Data.SQLite/
-    		<li>https://www.nuget.org/packages/Newtonsoft.Json/
-		</ul>
+	<ul>
+		<li>https://www.nuget.org/packages/System.Data.SQLite/
+		<li>https://www.nuget.org/packages/Newtonsoft.Json/
+	</ul>
 </ul>
 <h4>Note</h4>
 <ul>
