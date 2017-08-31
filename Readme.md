@@ -7,8 +7,6 @@
 	<li>Download Queue
     <li>Multithreaded optimisations
     <li>Pause and resume the downloads
-    <li>Threaded, state controlled architecture
-    <li>Highly independant modules
     <li>Standalone portable downloader
 </ul>
 
